@@ -1,0 +1,7 @@
+{
+    "db": {
+        "passwd": "root",
+        "username": "root"
+    },
+    "key": "custom-key"
+}
